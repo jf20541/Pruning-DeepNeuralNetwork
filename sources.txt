@@ -1,0 +1,4 @@
+https://towardsdatascience.com/pruning-deep-neural-network-56cae1ec5505
+https://jacobgil.github.io/deeplearning/pruning-deep-learning
+https://pytorch.org/docs/stable/generated/torch.nn.utils.prune.ln_structured.html
+https://colab.research.google.com/github/soniajoseph/Pruning/blob/master/Pruning_PyTorch.ipynb#scrollTo=51kd-weohlPf
